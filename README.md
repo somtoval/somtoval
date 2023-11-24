@@ -8,6 +8,8 @@
 - 💬 Ask me about **Python and Django**
 
 - 📫 How to reach me **ogbesomto4@gmail.com**
+  
+- 🚀 Connect with me **https://linkedin.com/in/somtoval**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
