@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ogbesomto4@gmail.com**
   
-- 🚀 Connect with me **https://linkedin.com/in/somtoval**
+- 🚀 Connect with me **https://linkedin.com/in/somto-ogbe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
