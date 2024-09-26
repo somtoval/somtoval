@@ -1,3 +1,55 @@
+# Hi there! 👋 I'm [Your Name]  
+
+Welcome to my GitHub! I'm a **Backend Developer** with a passion for **AI and Data Science**. I enjoy building robust web applications, exploring data, and continuously learning new technologies. Here’s a bit about what I do:
+
+## 🚀 Tech Stack
+
+### 💻 **Programming Languages**
+- Python 🐍
+- JavaScript ☕️
+
+### ⚙️ **Backend Development**
+- Django & Django Rest Framework 🌐
+- Flask 🧪
+- FastAPI 🚀
+
+### 🎨 **Frontend Development**
+- HTML, CSS, Bootstrap 🎨
+
+### 🔄 **Version Control**
+- Git / GitHub 🛠️
+
+### 🗄️ **Database Management**
+- SQL, MongoDB, PostgreSQL 🗂️
+
+### 🧠 **AI & Data Science**
+- Pandas, NumPy, Matplotlib, Seaborn 📊
+- Scikit-learn 🤖
+- TensorFlow, Keras, PyTorch 🧠
+- OpenCV 👁️
+
+---
+
+## 🌱 What I'm currently working on
+- Building and optimizing APIs with **Django Rest Framework**.
+- Diving deeper into **AI/ML models** with **PyTorch** and **TensorFlow**.
+- Experimenting with new libraries to enhance my data science toolset.
+
+## 📚 What I'm learning
+- Exploring the latest in **Machine Learning** and **Deep Learning**.
+- Enhancing my frontend skills to complement my backend expertise.
+
+## ✨ Fun fact
+I’m always on the lookout for exciting projects to collaborate on, especially those that merge the worlds of **backend development** and **AI**!
+
+---
+
+Feel free to check out my repositories and don’t hesitate to reach out for collaboration or just to chat!
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Somto Ogbe</h1>
 <h3 align="center">A passionate Python Backend Developer</h3>
 
