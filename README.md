@@ -1,6 +1,6 @@
 # Hi there! I'm Somto  😎
 
-Welcome to my GitHub! I'm a **Backend Developer** with a passion for **AI and Data Science**. I enjoy building robust applications, exploring data, and continuously learning new technologies.
+Welcome to my GitHub! I'm a **Backend Developer** with a passion for **AI and Data Science**. I enjoy building robust applications, exploring data, and creating smart solutions.
 
 ## ✨ **Let's Connect!**
 - 📫 How to reach me **ogbesomto4@gmail.com**
