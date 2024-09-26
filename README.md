@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! I'm Somto  😎
 
-Welcome to my GitHub! I'm a **Backend Developer** with a passion for **AI and Data Science**. I enjoy building robust web applications, exploring data, and continuously learning new technologies. Here’s a bit about what I do:
+Welcome to my GitHub! I'm a **Backend Developer** with a passion for **AI and Data Science**. I enjoy building robust applications, exploring data, and continuously learning new technologies. Here’s a bit about what I do:
 
 ## 🚀 Tech Stack
 
@@ -13,9 +13,6 @@ Welcome to my GitHub! I'm a **Backend Developer** with a passion for **AI and Da
 - Flask 🧪
 - FastAPI 🚀
 
-### 🎨 **Frontend Development**
-- HTML, CSS, Bootstrap 🎨
-
 ### 🔄 **Version Control**
 - Git / GitHub 🛠️
 
@@ -27,8 +24,6 @@ Welcome to my GitHub! I'm a **Backend Developer** with a passion for **AI and Da
 - Scikit-learn 🤖
 - TensorFlow, Keras, PyTorch 🧠
 - OpenCV 👁️
-
----
 
 ## 🌱 What I'm currently working on
 - Building and optimizing APIs with **Django Rest Framework**.
