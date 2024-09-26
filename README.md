@@ -39,6 +39,6 @@ I’m always on the lookout for exciting projects to collaborate on!
 - 💬 Ask me about **Python, Django and Data Science**
 - 📫 How to reach me **ogbesomto4@gmail.com**
 - 🚀 Connect with me **https://linkedin.com/in/somto-ogbe**
-- 💬 Message me **x.com/Somto_Ogbe**
+- 💬 Message me **https://x.com/Somto_Ogbe**
 
 Feel free to check out my repositories and don’t hesitate to reach out for collaboration or just to chat!✌
