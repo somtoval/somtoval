@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm a **Backend Developer** with a passion for **AI and Da
 
 ## 🌱 What I'm currently working on
 - Building and optimizing APIs with **Django Rest Framework**.
-- Diving deeper into **AI/ML models** with **PyTorch** and **TensorFlow**.
+- Diving deeper into **AI** with **PyTorch** and **TensorFlow**.
 
 ## 📚 What I'm learning
 - Exploring the latest in **Machine Learning** and **Deep Learning**.
