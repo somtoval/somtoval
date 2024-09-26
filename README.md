@@ -13,17 +13,19 @@ Welcome to my GitHub! I'm a **Backend Developer** with a passion for **AI and Da
 - Flask 🧪
 - FastAPI 🚀
 
+### 🧠 **AI & Data Science**
+- Pandas, NumPy, Matplotlib, Seaborn 📊
+- Scikit-learn 🤖
+- TensorFlow, Keras, PyTorch 🧠
+- OpenCV 👁️
+
 ### 🔄 **Version Control**
 - Git / GitHub 🛠️
 
 ### 🗄️ **Database Management**
 - SQL, MongoDB, PostgreSQL 🗂️
 
-### 🧠 **AI & Data Science**
-- Pandas, NumPy, Matplotlib, Seaborn 📊
-- Scikit-learn 🤖
-- TensorFlow, Keras, PyTorch 🧠
-- OpenCV 👁️
+
 
 ## 🌱 What I'm currently working on
 - Building and optimizing APIs with **Django Rest Framework**.
@@ -37,7 +39,27 @@ Welcome to my GitHub! I'm a **Backend Developer** with a passion for **AI and Da
 ## ✨ Fun fact
 I’m always on the lookout for exciting projects to collaborate on, especially those that merge the worlds of **backend development** and **AI**!
 
----
+
+
+<h1 align="center">Hi 👋, I'm Somto Ogbe</h1>
+<h3 align="center">A passionate Python Backend Developer</h3>
+
+- 🔭 I’m currently working on **Machine Learning Projects**
+
+- 🌱 I’m currently exploring **Data Science**
+
+- 💬 Ask me about **Python and Django**
+
+- 📫 How to reach me **ogbesomto4@gmail.com**
+  
+- 🚀 Connect with me **https://linkedin.com/in/somto-ogbe**
+- 💬 Drop me a mail **ogbesomto4@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/somto-ogbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somto-ogbe" height="30" width="40" /></a>
+</p>
+
 
 Feel free to check out my repositories and don’t hesitate to reach out for collaboration or just to chat!
 
