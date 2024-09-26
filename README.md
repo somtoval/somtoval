@@ -39,6 +39,4 @@ Welcome to my GitHub! I'm a **Backend Developer** with a passion for **AI and Da
 - Exploring the latest in **Machine Learning** and **Deep Learning**.
 
 ## ✨ Fun fact
-I’m always on the lookout for exciting projects to collaborate on!
-
-Feel free to check out my repositories and don’t hesitate to reach out for collaboration or just to chat!✌
+I’m always on the lookout for exciting projects to collaborate on so feel free to check out my repositories and don’t hesitate to reach out for collaboration or just to chat!✌
